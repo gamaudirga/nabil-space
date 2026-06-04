@@ -5,6 +5,7 @@ import { getDatabase, ref, push, onValue } from "https://www.gstatic.com/firebas
 const firebaseConfig = {
   apiKey: "AIzaSyD_XRqO8J6gqTa6Fowih3TkCSwJmnP7yJQ",
   authDomain: "nabil-space.firebaseapp.com",
+  databaseURL: "https://nabil-space-default-rtdb.asia-southeast1.firebasedatabase.app"
   projectId: "nabil-space",
   storageBucket: "nabil-space.firebasestorage.app",
   messagingSenderId: "1017195983918",
